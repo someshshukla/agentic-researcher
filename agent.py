@@ -4,7 +4,9 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import PydanticOutputParser
 from langchain.agents import create_tool_calling_agent, AgentExecutor
-from tools import search_tool, wiki_tool, save_tool
+# agent.py
+from tools import tools  # instead of individual names
+...
 
 # Load environment variables (GOOGLE_API_KEY)
 load_dotenv()
@@ -50,9 +52,8 @@ prompt = ChatPromptTemplate.from_messages(
 ).partial(format_instructions=parser.get_format_instructions())
 
 # Available tools
-tools = [search_tool, wiki_tool, save_tool]
 
-# Build the tool-calling agent and its executor
+
 agent = create_tool_calling_agent(llm=llm, prompt=prompt, tools=tools)
 agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
 
