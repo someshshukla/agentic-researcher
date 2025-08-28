@@ -1,9 +1,8 @@
-
-langchain
+streamlit>=1.33
+langchain>=0.2.10,<0.3
+langchain-community>=0.2.10,<0.3
+langchain-google-genai>=2.0.0
+duckduckgo-search>=5.3.1
 wikipedia
-langchain-community
-langchain-google-genai
 python-dotenv
-pydantic
-duckduckgo-search
-streamlit
+pydantic<3
