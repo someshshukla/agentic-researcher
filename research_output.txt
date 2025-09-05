@@ -1,0 +1,90 @@
+--- Research Output ---
+Timestamp: 2025-08-28 14:42:00
+
+```json
+{
+  "topic": "Instagram",
+  "summary": "Instagram is a photo and video-sharing social networking service owned by Meta Platforms.  Launched in 2010, it allows users to upload media that can be edited with filters and organized by hashtags and geographical tagging.  Users can share their posts publicly or privately with approved followers.  The platform has become incredibly popular, with billions of users worldwide, and has significantly impacted social media trends and online culture.",
+  "sources": [
+    "https://www.instagram.com/"
+  ],
+  "tools_used": [
+    "default_api"
+  ]
+}
+```
+
+--- Research Output ---
+Timestamp: 2025-09-01 12:54:10
+
+```json
+{
+ "topic": "finark.ai",
+ "summary": "No information was found about finark.ai. The search results were not relevant to the query.",
+ "sources": [],
+ "tools_used": ["default_api.search"]
+}```
+
+--- Research Output ---
+Timestamp: 2025-09-01 12:54:49
+
+```json
+{
+ "topic": "Finkraft AI",
+ "summary": "I could not find any information about Finkraft AI using the available tools. It is possible that the entity is very new, niche, or there might be a typo in the query. Please double-check the spelling or provide more context if available.",
+ "sources": [],
+ "tools_used": [
+  "search",
+  "wikipedia"
+ ]
+}```
+
+--- Research Output ---
+Timestamp: 2025-09-01 12:55:10
+
+```json
+{
+ "topic": "Finkraft AI Company",
+ "summary": "Finkraft is a Bengaluru, India-based company founded in 2019 by Rohit Anand and Taruna Anand. It specializes in providing AI-powered solutions for GST reconciliation and compliance, aiming to streamline and enhance the efficiency, accuracy, and control of financial workflows related to GST. The company has raised $120K in a seed round as of March 2020.",
+ "sources": [
+  "https://www.crunchbase.com/organization/finkraft",
+  "https://www.finkraft.ai/",
+  "https://www.glassdoor.co.in/Reviews/Finkraft-Reviews-E3003003.htm"
+ ],
+ "tools_used": [
+  "search"
+ ]
+}```
+
+--- Research Output ---
+Timestamp: 2025-09-01 13:30:20
+
+```json
+{
+ "topic": "Fincraft AI Company",
+ "summary": "I was unable to find any information about a company named Fincraft AI.",
+ "sources": [],
+ "tools_used": [
+  "search"
+ ]
+}```
+
+--- Research Output ---
+Timestamp: 2025-09-01 13:31:15
+
+```json
+{
+ "topic": "Finkraft AI Company",
+ "summary": "Finkraft is an AI-powered fintech company based in Bengaluru, India, founded in 2019 by Rohit Anand and Taruna Anand. The company provides AI-driven solutions, particularly focusing on GST reconciliation and compliance workflows, aiming to enhance efficiency, accuracy, and control for finance teams. They offer an AI-powered ecosystem to streamline GST compliance. Information regarding employee reviews and interview processes is also available, indicating a 49% approval rate for working days among employees.",
+ "sources": [
+  "Jul 22, 2025 · FinKraft is a seed company based in Bengaluru (India), founded in 2019 by Rohit Anand and Taruna Anand. It operates as a Provider of AI-powered GST reconciliation and fintech …",
+  "May 30, 2025 · It’s an AI-powered ecosystem designed to streamline every step of your GST compliance workflow—bringing unmatched efficiency, accuracy, and control to your finance …",
+  "Feb 19, 2025 · Empower your finance team with FinKraft's AI-driven solutions and navigate the complexities of today's financial world with confidence.",
+  "Sep 3, 2024 · Finkraft interview details: 9 interview questions and 9 interview reviews posted anonymously by Finkraft interview candidates.",
+  "May 18, 2025 · Read reviews on salaries, working hours, work culture, office environment, and more to know if Finkraft is the right company for you. 49% of employees reported the working days at …"
+ ],
+ "tools_used": [
+  "search"
+ ]
+}```
+
